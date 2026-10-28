@@ -202,5 +202,4 @@ Created for **Hacktoberfest 2026** Week 4 (_"Ghost in the Machine"_).
 Contributions, new story archetypes, and open-weight model backends are warmly
 welcomed!
 
-License: Pending selection (MIT License recommended for open-source
-Hacktoberfest participation).
+Licensed under the [MIT License](LICENSE) &copy; 2026 Muskan Kumari.
